@@ -31,14 +31,16 @@ else:
 ## Quick Start
 
 ### Run Python Script
-```bash
 # 1. Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 # 2. Add your Etherscan API key to .env file
+```bash
 echo "ETHERSCAN_API_KEY=your_api_key_here" > .env
-
+```
 # 3. Run the main script
+```bash
 python main.py
 ```
 
