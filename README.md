@@ -28,12 +28,15 @@ else:
 
 ```
 
+---
+
+
 ## 📁 Project Structure
 
 ```
 zerufinance-ps-2/
 ├── data/
-│   └── wallets.csv            # Input wallet addresses (first column only)
+│   └── wallets.csv            # Input wallet addresses
 ├── output/
 │   └── wallet_scores.csv      # Output with wallet, tx_count, risk_score
 ├── main.py                    # Main script
@@ -41,12 +44,15 @@ zerufinance-ps-2/
 └── .env                     # API keys (create this file)
 ```
 
+---
+
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/eth-risk-scoring.git
-cd eth-risk-scoring
+git clone https://github.com/ParasNingune/zerufinance-ps-2.git
+cd zerufinance-ps-2
 ```
 
 ### 2. Install Dependencies
@@ -81,6 +87,9 @@ python3 main.py
 | ------------------------------------------ | --------- | ----------- |
 | 0x742d35Cc6634C0532925a3b844Bc454e4438f44e | 154       | 793         |
 | ...                                        | ...       | ...         |
+
+
+---
 
 
 ## 🚨 Dependencies
