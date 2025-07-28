@@ -67,7 +67,7 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 ```
 
 ### 4. Prepare Input File
-#### Place your wallet addresses in a file: data/wallets.csv
+#### Place your wallet addresses in a file: `data/wallets.csv`
 #### Only the first column will be read, and all addresses will be normalized.
 #### Example:
 ```bash
