@@ -80,6 +80,10 @@ Example:
 ```bash
 python3 main.py
 ```
+
+---
+
+
 ## Output Format
 
 **CSV file with columns:**
